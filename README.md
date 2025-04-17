@@ -5,7 +5,7 @@ The Agriculture Equipment Rental Management System is a digital platform that co
 
 # How to run the Agriculture Rental Management System (AERMS)
 
-1.Download the Project zip file
+1.Download the Project in zip file
 
 2.Extract the file and copy aerms folder
 
@@ -15,7 +15,7 @@ The Agriculture Equipment Rental Management System is a digital platform that co
 
 5.Create a database with name aermsdb
 
-6.Import aermsdb.sql file (given inside the zip package in SQL file folder)
+6.Import aermsdb.sql file (given inside the SQL file folder)
 
 7.Run the script http://localhost/aerms (frontend)
 
